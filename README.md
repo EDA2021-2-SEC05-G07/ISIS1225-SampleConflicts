@@ -1,3 +1,9 @@
+Integrantes:
+
+Estudiante 1: Gabriela Carvajal Rojas.
+Estudiante 2: Juanita Gil Arango.
+
+
 #ISIS1225 - Estructura de un proyecto
 
 Este proyecto busca mostrar una posible forma de organizar el código que se va a desarrollar en los proyectos del curso.
